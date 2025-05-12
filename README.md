@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Virtual Machine (Microsoft Azure)
 - Remote Desktop
 - Internet Information Services
-- PHP 7.3.8
+- PHPManager
 - HeidiSQL
 
 <h2>Installation Steps</h2>
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Devonwilliams22/osticket-prereqs/blob/c6b3e632874aaec3a3c479cd28b960b4ee858b1f/Screenshot%202025-05-12%20at%206.05.36%20PM.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
