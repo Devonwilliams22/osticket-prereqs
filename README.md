@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/Devonwilliams22/osticket-prereqs/blob/b3bb605e64d0900bcac82e56b7b3a56109df1db1/Screenshot%202025-05-10%20at%2010.10.28%20PM.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Devonwilliams22/osticket-prereqs/blob/573471161ee7dd79cbd5226a1332c15cd91acf4e/Screenshot%202025-05-10%20at%209.27.37%20PM.jpeg" height="60%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/Devonwilliams22/osticket-prereqs/blob/b3bb605e64d0900bcac82e56b7b3a56109df1db1/Screenshot%202025-05-10%20at%2010.10.28%20PM.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Devonwilliams22/osticket-prereqs/blob/573471161ee7dd79cbd5226a1332c15cd91acf4e/Screenshot%202025-05-10%20at%209.27.37%20PM.jpeg" height="60%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
